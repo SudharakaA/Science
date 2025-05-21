@@ -7,7 +7,7 @@ const Testimonials = () => {
             <h1>PRINCIPAL'S MESSAGE</h1>
             <div className="row">
                 <div className="testimonials-col">
-                    <img src={male} alt="Mr. Rohan Perera" />
+                    <img src={male} alt="Mr. RSTU" />
                     <div>
                         <p>
                         At our school, we believe in nurturing not just academic excellence, but also strong values and life skills. 
@@ -15,7 +15,7 @@ const Testimonials = () => {
                         We encourage curiosity, creativity, and collaboration, preparing our students to become responsible citizens and future leaders. 
                         I am proud of our vibrant school community and invite all students to make the most of every opportunity here.
                         </p>
-                        <h3>Mr. Rohan Perera</h3>
+                        <h3>Mr. RSTU</h3>
                         <i className="fa fa-star"></i>
                         <i className="fa fa-star"></i>
                         <i className="fa fa-star"></i>
@@ -25,7 +25,7 @@ const Testimonials = () => {
                 </div>
 
                 <div className="testimonials-col">
-                    <img src={female} alt="Ms. Nadeesha Fernando" />
+                    <img src={female} alt="Ms. ABCD" />
                     <div>
                         <p>
                         My experience at this school has been truly rewarding. 
@@ -33,7 +33,7 @@ const Testimonials = () => {
                         The school offers a variety of clubs and activities, allowing us to discover our interests and talents. 
                         I am grateful for the encouragement and guidance I have received, and I look forward to achieving more milestones here.
                         </p>
-                        <h3>Ms. Nadeesha Fernando</h3>
+                        <h3>Ms. ABCD</h3>
                         <i className="fa fa-star"></i>
                         <i className="fa fa-star"></i>
                         <i className="fa fa-star"></i>

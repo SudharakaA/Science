@@ -40,8 +40,8 @@ const Contact = () => {
               <div>
                 <i className="fa fa-envelope"></i>
                 <span>
-                  <h5>For General Enquiry: info@mituniversity.edu.in</h5>
-                  <p>For Admissions: admissions@mituniversity.edu.in</p>
+                  <h5>For General Enquiry: info@sciencecollege.edu.lk</h5>
+                  <p>For Admissions: admissions@sciencecollege.edu.lk</p>
                 </span>
               </div>
             </div>
