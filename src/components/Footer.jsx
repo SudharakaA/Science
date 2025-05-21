@@ -31,9 +31,9 @@ const Footer = () => {
           <h3>Social Media</h3>
           <ul>
             <li><Link to="/"><i className="fa-brands fa-instagram"></i> Instagram</Link></li>
-            <li><Link to="/"><i className="fa-brands fa-youtube"></i> Youtube</Link></li>
+            <li><Link to="https://www.youtube.com/@sciencecollege-mountlavini2101"><i className="fa-brands fa-youtube"></i> Youtube</Link></li>
             <li><Link to="/"><i className="fa-brands fa-facebook"></i> Facebook</Link></li>
-            <li><Link to="/"><i className="fa-brands fa-twitter"></i> Twitter</Link></li>
+            <li><Link to="https://x.com/ScienceMount/media"><i className="fa-brands fa-twitter"></i> Twitter</Link></li>
           </ul>
         </div>
 

@@ -4,21 +4,18 @@ import female from '../assets/images/female.webp';
 const Testimonials = () => {
     return (
         <section className="testimonials">
-            <h1>ALUMNI SPEAKS</h1>
+            <h1>PRINCIPAL'S MESSAGE</h1>
             <div className="row">
                 <div className="testimonials-col">
-                    <img src={male} alt="Saurabh Bharam" />
+                    <img src={male} alt="Mr. Rohan Perera" />
                     <div>
                         <p>
-                        I will remember my time at MIT ADT University for the rest of my life. 
-                        Students can excel academically and personally in a short period of time. 
-                        A students overall development is the goal of university. 
-                        We are given numerous opportunities to experiment with and learn new skills. 
-                        The interaction with faculty members has been positive, and their advice has always been beneficial to me. 
-                        The university provides all of the necessary facilities and an environment for you to be successful in your field. 
-                        As an alumnus, I would advise you to seize all opportunities to become a successful person.
+                        At our school, we believe in nurturing not just academic excellence, but also strong values and life skills. 
+                        Our dedicated teachers and staff work tirelessly to create a safe, inclusive, and inspiring environment for every student. 
+                        We encourage curiosity, creativity, and collaboration, preparing our students to become responsible citizens and future leaders. 
+                        I am proud of our vibrant school community and invite all students to make the most of every opportunity here.
                         </p>
-                        <h3>Saurabh Bharam</h3>
+                        <h3>Mr. Rohan Perera</h3>
                         <i className="fa fa-star"></i>
                         <i className="fa fa-star"></i>
                         <i className="fa fa-star"></i>
@@ -28,15 +25,15 @@ const Testimonials = () => {
                 </div>
 
                 <div className="testimonials-col">
-                    <img src={female} alt="Aishwarya Vaidya" />
+                    <img src={female} alt="Ms. Nadeesha Fernando" />
                     <div>
                         <p>
-                        My four-year journey with MIT ADT University was a significant part of my life. 
-                        I would honestly say that MIT ADT University is the best place to learn about your true potential. 
-                        The management and professors have faith in the students and encourage them to achieve new heights of success. 
-                        I am confident that the alumni association will assist the institute, alumni, and current students in contributing to each others growth.
+                        My experience at this school has been truly rewarding. 
+                        The supportive teachers and friendly classmates have helped me grow both academically and personally. 
+                        The school offers a variety of clubs and activities, allowing us to discover our interests and talents. 
+                        I am grateful for the encouragement and guidance I have received, and I look forward to achieving more milestones here.
                         </p>
-                        <h3>Aishwarya Vaidya</h3>
+                        <h3>Ms. Nadeesha Fernando</h3>
                         <i className="fa fa-star"></i>
                         <i className="fa fa-star"></i>
                         <i className="fa fa-star"></i>

@@ -1,6 +1,6 @@
 import campus01 from '../assets/images/campus01.jpg'
-import campus02 from '../assets/images/campus02.jpg'
-import campus03 from '../assets/images/campus03.jpg'
+import campus02 from '../assets/images/Ground.jpeg'
+import campus03 from '../assets/images/images-1.jpeg'
 
 const Campuses = () => {
     return (
