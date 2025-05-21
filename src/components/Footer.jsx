@@ -21,10 +21,9 @@ const Footer = () => {
           <ul>
             <li><Link to="/">GCE A/L</Link></li>
             <li><Link to="/">GCE O/L</Link></li>
-            <li><Link to="/">Scholarship</Link></li>
-            <li><Link to="/">Architecture</Link></li>
-            <li><Link to="/">Food Technology</Link></li>
-            <li><Link to="/">Law</Link></li>
+            <li><Link to="/">Grade 5 Scholarship</Link></li>
+            <li><Link to="/">13 Plus Education</Link></li>
+            <li><Link to="/">Primary Education</Link></li>
           </ul>
         </div>
 
@@ -41,11 +40,11 @@ const Footer = () => {
         <div className="foot-col">
           <h3>Initiatives</h3>
           <ul>
-            <li><Link to="/">Atal Incubation Centre (AIC)</Link></li>
-            <li><Link to="/">Persona Fest – 2024</Link></li>
-            <li><Link to="/">Convocation 2022IGTT (ADTMVEAFM) 6th National Conference</Link></li>
-            <li><Link to="/">Vishwanath Sports Meet – 2024</Link></li>
-            <li><Link to="/">MIT Vishwajyoti International School</Link></li>
+            <li><Link to="/">IT Society </Link></li>
+            <li><Link to="/">Annual Prize Giving – 2024</Link></li>
+            <li><Link to="/">Rugby Tournament</Link></li>
+            <li><Link to="/">Annual Sports Meet – 2025</Link></li>
+            
           </ul>
         </div>
 
